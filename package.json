@@ -1,0 +1,16 @@
+{
+  "name": "nearest-location",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nico",
+  "license": "ISC",
+  "dependencies": {
+    "geopoint": "^1.0.1",
+    "ramda": "^0.26.1",
+    "xlsx": "^0.15.0"
+  }
+}
