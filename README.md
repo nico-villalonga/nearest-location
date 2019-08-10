@@ -1,6 +1,7 @@
 # nearest-location
 
 Node project to recommend nearest location based on a candidate.
+
 To run the project first install dependencies `npm install` then `node index.js`
 
 Dependencies:
