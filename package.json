@@ -11,6 +11,6 @@
   "dependencies": {
     "geopoint": "^1.0.1",
     "ramda": "^0.26.1",
-    "xlsx": "^0.15.0"
+    "xlsx": "^0.17.0"
   }
 }
